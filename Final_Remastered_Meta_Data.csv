@@ -1,0 +1,163 @@
+ID,Study_ID,Year,Author,Location,Standard_Country,Standard_Setting,Standard_Population,Clean_Sample_Size,Standard_Risk_Factor,OR,Lower_CI,Upper_CI,P_Value
+1,Rahman_2018,2018,Rahman et al.,Urban,Bangladesh,Mixed/National,General Adult Population,4584,Age: Elderly (≥60 yrs),14.4,10,20.5,<0.05
+1,Rahman_2018,2018,Rahman et al.,Rural,Bangladesh,Mixed/National,General Adult Population,4646,Age: Elderly (≥60 yrs),10.8,7.8,15.1,<0.05
+1,Rahman_2018,2018,Rahman et al.,Urban,Bangladesh,Mixed/National,General Adult Population,4584,Age: Middle Age (40-59 yrs),9.1,6.9,12.1,<0.05
+1,Rahman_2018,2018,Rahman et al.,Rural,Bangladesh,Mixed/National,General Adult Population,4646,Age: Young Adult (<40 yrs),7.9,4.6,13.7,<0.05
+2,Islam_2015,2015,Islam et al. ,Urban (Dhaka) ,Bangladesh,Urban,General Adult Population,730,Age ≥66,19.18,13.58,28.11,<0.05
+2,Islam_2015,2015,Islam et al. ,Urban (Dhaka) ,Bangladesh,Urban,General Adult Population,730,Age: Elderly (≥60 yrs),12.41,7.34,19.35,<0.05
+2,Islam_2015,2015,Islam et al. ,Urban (Dhaka) ,Bangladesh,Urban,General Adult Population,730,Age: Middle Age (40-59 yrs),3.89,3.14,8.55,<0.05
+2,Islam_2015,2015,Islam et al. ,Urban (Dhaka) ,Bangladesh,Urban,General Adult Population,730,Tobacco Use,3.61,2.33,4.14,<0.05
+2,Islam_2015,2015,Islam et al. ,Urban (Dhaka) ,Bangladesh,Urban,General Adult Population,730,Tobacco Use,3.47,2.85,5.19,<0.05
+4,Chowdhury_2021,2021,Chowdhury et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,14704,Age 75+,4.99,3.77,6.6,<0.001 
+4,Chowdhury_2021,2021,Chowdhury et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,8835,Age 75+,4.27,3.24,5.63,<0.001 
+4,Chowdhury_2021,2021,Chowdhury et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,8835,Age: Elderly (≥60 yrs),4.04,3.24,5.05,<0.001 
+4,Chowdhury_2021,2021,Chowdhury et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,14704,Age: Elderly (≥60 yrs),3.63,2.96,4.46,<0.001 
+4,Chowdhury_2021,2021,Chowdhury et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,14704,Obesity/Overweight,3.24,2.46,4.28,<0.001 
+6,Barua_2018,2018,Barua et al.,Dhaka,Bangladesh,Urban,Specific Professionals,323,Diet (Low Vegetables),2.048,1.228,3.416,<0.05
+6,Barua_2018,2018,Barua et al.,Dhaka,Bangladesh,Urban,Specific Professionals,323,Obesity/Overweight,1.99,1.006,3.933,<0.05
+6,Barua_2018,2018,Barua et al.,Dhaka,Bangladesh,Urban,Specific Professionals,323,Extra Salt Intake,1.977,1.269,3.079,<0.05
+6,Barua_2018,2018,Barua et al.,Dhaka,Bangladesh,Urban,Specific Professionals,323,Gender: Male,1.724,1.045,2.844,<0.05
+8,Fottrell_2018,2018,Fottrell et al.,Faridpur District (96 villages),Bangladesh,Rural,General Adult Population,6432,Age: Elderly (≥60 yrs),7.04,5.11,9.69,<0.05
+8,Fottrell_2018,2018,Fottrell et al.,Faridpur District (96 villages),Bangladesh,Rural,General Adult Population,5615,Age: Elderly (≥60 yrs),6.22,4.36,8.86,<0.05
+8,Fottrell_2018,2018,Fottrell et al.,Faridpur District (96 villages),Bangladesh,Rural,General Adult Population,5615,Age: Elderly (≥60 yrs),5.09,3.83,6.76,<0.05
+8,Fottrell_2018,2018,Fottrell et al.,Faridpur District (96 villages),Bangladesh,Rural,General Adult Population,6432,Age: Elderly (≥60 yrs),4.67,3.64,5.98,<0.05
+8,Fottrell_2018,2018,Fottrell et al.,Faridpur District (96 villages),Bangladesh,Rural,General Adult Population,6432,Age: Middle Age (40-59 yrs),3.45,2.79,4.26,<0.05
+9,Khanam_2019,2019,Khanam et al. ,Sylhet district ,Bangladesh,Rural,General Adult Population,946,Age: Elderly (≥60 yrs),5.7,3.4,9.5,<0.001 
+9,Khanam_2019,2019,Khanam et al. ,Sylhet district ,Bangladesh,Rural,General Adult Population,864,Obesity/Overweight,4,2.5,6.4,<0.001 
+9,Khanam_2019,2019,Khanam et al. ,Sylhet district ,Bangladesh,Rural,General Adult Population,864,Age: Elderly (≥60 yrs),3.5,2,6.3,<0.001 
+9,Khanam_2019,2019,Khanam et al. ,Sylhet district ,Bangladesh,Rural,General Adult Population,946,Age: Middle Age (40-59 yrs),3.1,1.7,5.4,<0.001 
+9,Khanam_2019,2019,Khanam et al. ,Sylhet district ,Bangladesh,Rural,General Adult Population,864,Age: Middle Age (40-59 yrs),3,1.7,5.4,<0.001 
+10,Ali_2022,2022,Ali et al. ,Eight divisional regions ,Bangladesh,Rural,General Adult Population,1410,Age: Elderly (≥60 yrs),7.91,4.73,13.23,0
+10,Ali_2022,2022,Ali et al. ,Eight divisional regions ,Bangladesh,Rural,General Adult Population,1410,Age: Elderly (≥60 yrs),3.75,2.45,5.76,0
+10,Ali_2022,2022,Ali et al. ,Eight divisional regions ,Bangladesh,Rural,General Adult Population,1410,Age: Middle Age (40-59 yrs),2.99,2,4.48,0
+10,Ali_2022,2022,Ali et al. ,Eight divisional regions ,Bangladesh,Rural,General Adult Population,1410,Obesity/Overweight,1.57,1.07,2.31,0.021
+12,Chowdhury_2016 ,2016,Chowdhury et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,7839,Age: Elderly (≥60 yrs),4.16,3.24,5.36,<0.05 
+12,Chowdhury_2016 ,2016,Chowdhury et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,7839,Age: Elderly (≥60 yrs),3.77,3.01,4.72,<0.05 
+12,Chowdhury_2016 ,2016,Chowdhury et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,7839,Age: Middle Age (40-59 yrs),2.71,2.12,3.46,<0.05 
+12,Chowdhury_2016 ,2016,Chowdhury et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,7839,Obesity/Overweight,2.19,1.87,2.57,<0.05 
+12,Chowdhury_2016 ,2016,Chowdhury et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,7839,Diabetes,1.54,1.31,1.83,<0.05 
+13,Sathi_2022,2022,Sathi et al.,Nationwide,Bangladesh,Mixed/National,General Adult Population,11686,Age: Elderly (≥60 yrs),2.7,2.42,3,<0.001
+13,Sathi_2022,2022,Sathi et al.,Nationwide,Bangladesh,Mixed/National,General Adult Population,11686,Age: Elderly (≥60 yrs),2.15,1.94,2.39,<0.001
+13,Sathi_2022,2022,Sathi et al.,Nationwide,Bangladesh,Mixed/National,General Adult Population,11686,Age: Middle Age (40-59 yrs),1.73,1.56,1.91,<0.001
+13,Sathi_2022,2022,Sathi et al.,Nationwide,Bangladesh,Mixed/National,General Adult Population,11686,Age: Young Adult (<40 yrs),1.55,1.46,1.65,<0.001
+13,Sathi_2022,2022,Sathi et al.,Nationwide,Bangladesh,Mixed/National,General Adult Population,11686,Obesity/Overweight,1.41,1.33,1.51,<0.001
+13,Sathi_2022,2022,Sathi et al.,Nationwide,Bangladesh,Mixed/National,General Adult Population,11686,Diabetes,1.12,1.04,1.21,0.003
+15,Choudhury_2014,2014,Choudhury et al.,Dhaka,Bangladesh,Hospital/Clinical,General Adult Population,234,Dbp (<90 Mmhg),1.74,0.33,3.29,0.044
+15,Choudhury_2014,2014,Choudhury et al.,Dhaka,Bangladesh,Hospital/Clinical,General Adult Population,234,Ldl (<100 Mg/Dl),1.24,0.69,1.66,0.001
+15,Choudhury_2014,2014,Choudhury et al.,Dhaka,Bangladesh,Hospital/Clinical,General Adult Population,234,Age: Middle Age (40-59 yrs),1.13,0.49,1.44,0.048
+15,Choudhury_2014,2014,Choudhury et al.,Dhaka,Bangladesh,Hospital/Clinical,General Adult Population,234,Age: Young Adult (<40 yrs),1.12,0.91,1.77,0.002
+16,Razibi_2023,2023,Razibi et al.,Dhaka city,Bangladesh,Mixed/National,General Adult Population,180,Family History of HTN,5.48,1.62,18.5,<0.05
+16,Razibi_2023,2023,Razibi et al.,Dhaka city,Bangladesh,Mixed/National,General Adult Population,180,Family History of HTN,4.64,2.16,9.97,<0.01
+16,Razibi_2023,2023,Razibi et al.,Dhaka city,Bangladesh,Mixed/National,General Adult Population,180,Gender: Male,3.92,1.75,8.75,<0.01
+16,Razibi_2023,2023,Razibi et al.,Dhaka city,Bangladesh,Mixed/National,General Adult Population,180,Salary (≥81K Bdt),2.65,1.07,6.59,<0.1
+17,Khanam_2015,2015,Khanam et al.,"Matlab, Abhaynagar and Mirsarai",Bangladesh,Rural,General Adult Population,6094,Age: Elderly (≥60 yrs),4.48,3.38,5.939,<0.05
+17,Khanam_2015,2015,Khanam et al.,"Matlab, Abhaynagar and Mirsarai",Bangladesh,Rural,General Adult Population,6094,Age: Middle Age (40-59 yrs),3.642,2.853,4.649,<0.05
+17,Khanam_2015,2015,Khanam et al.,"Matlab, Abhaynagar and Mirsarai",Bangladesh,Rural,General Adult Population,6094,Age: Middle Age (40-59 yrs),2.517,1.965,3.225,<0.05
+17,Khanam_2015,2015,Khanam et al.,"Matlab, Abhaynagar and Mirsarai",Bangladesh,Rural,General Adult Population,6094,Obesity/Overweight,1.362,1.051,1.764,<0.05
+17,Khanam_2015,2015,Khanam et al.,"Matlab, Abhaynagar and Mirsarai",Bangladesh,Rural,General Adult Population,6094,Obesity/Overweight,1.441,0.999,2.079,
+18,Hasan_2021,2021,Hasan et al.,Dhaka division,Bangladesh,Urban,General Adult Population,2340,Age: Elderly (≥60 yrs),4.9,3.5,6.9,<0.001
+18,Hasan_2021,2021,Hasan et al.,Dhaka division,Bangladesh,Rural,General Adult Population,2516,Age: Elderly (≥60 yrs),4.6,3.6,5.9,<0.001
+18,Hasan_2021,2021,Hasan et al.,Dhaka division,Bangladesh,Urban,General Adult Population,2340,Age: Middle Age (40-59 yrs),4.2,3.2,5.6,<0.001
+18,Hasan_2021,2021,Hasan et al.,Dhaka division,Bangladesh,Urban,General Adult Population,2340,Obesity/Overweight,2.7,2.1,3.3,<0.001
+18,Hasan_2021,2021,Hasan et al.,Dhaka division,Bangladesh,Rural,General Adult Population,2516,Obesity/Overweight,2.1,1.7,2.5,<0.001
+21,Ali_2023,2023,Ali et al. ,Sylhet and Dhaka ,Bangladesh,Mixed/National,Specific Professionals,352,Age: Middle Age (40-59 yrs),8.03,2.86,22.53,0
+21,Ali_2023,2023,Ali et al. ,Sylhet and Dhaka ,Bangladesh,Mixed/National,Specific Professionals,352,Age: Middle Age (40-59 yrs),4.27,1.35,13.52,0.013
+21,Ali_2023,2023,Ali et al. ,Sylhet and Dhaka ,Bangladesh,Mixed/National,Specific Professionals,352,Obesity/Overweight,3.94,1.64,9.47,0.002
+21,Ali_2023,2023,Ali et al. ,Sylhet and Dhaka ,Bangladesh,Mixed/National,Specific Professionals,352,Obesity/Overweight,3.09,1.4,6.79,0.005
+21,Ali_2023,2023,Ali et al. ,Sylhet and Dhaka ,Bangladesh,Mixed/National,Specific Professionals,352,Diabetes,2.35,1.27,4.33,0.006
+22,Rahman_2022,2022,Rahman et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,12290,Age: Elderly (≥60 yrs),6.23,5.25,7.03,<0.001 
+22,Rahman_2022,2022,Rahman et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,12290,Age: Elderly (≥60 yrs),5.21,4.64,5.85,<0.001 
+22,Rahman_2022,2022,Rahman et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,12290,Age: Middle Age (40-59 yrs),3.96,3.24,4.84,<0.001 
+22,Rahman_2022,2022,Rahman et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,12290,Obesity/Overweight,2.41,2.11,2.75,<0.001 
+22,Rahman_2022,2022,Rahman et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,12290,Diabetes,2.22,1.71,2.89,<0.001 
+24,Rahman_2021,2021,Rahman et al.,Nationwide,Bangladesh,Mixed/National,General Adult Population,11959,Age: Elderly (≥60 yrs),6.3,5.4,7.36,<0.0001
+24,Rahman_2021,2021,Rahman et al.,Nationwide,Bangladesh,Mixed/National,General Adult Population,11959,Age: Middle Age (40-59 yrs),5.01,4.28,5.87,<0.0001
+24,Rahman_2021,2021,Rahman et al.,Nationwide,Bangladesh,Mixed/National,General Adult Population,11959,Age: Middle Age (40-59 yrs),4.1,3.51,4.81,<0.0001
+24,Rahman_2021,2021,Rahman et al.,Nationwide,Bangladesh,Mixed/National,General Adult Population,11959,Age: Young Adult (<40 yrs),1.86,1.41,1.96,<0.0001
+24,Rahman_2021,2021,Rahman et al.,Nationwide,Bangladesh,Mixed/National,General Adult Population,11959,Obesity/Overweight,1.59,1.48,1.69,<0.0001
+25,Hanif_2021,2021,Hanif et al. ,Nationwide (All 8 divisions) ,Bangladesh,Mixed/National,General Adult Population,2482,Obesity/Overweight,2.76,2.22,3.43,<0.001 
+25,Hanif_2021,2021,Hanif et al. ,Nationwide (All 8 divisions) ,Bangladesh,Mixed/National,General Adult Population,2482,Education (>10Th Grade),1.83,1.38,2.44,<0.001 
+25,Hanif_2021,2021,Hanif et al. ,Nationwide (All 8 divisions) ,Bangladesh,Mixed/National,General Adult Population,2482,Diabetes,1.36,1.02,1.82,<0.05 
+25,Hanif_2021,2021,Hanif et al. ,Nationwide (All 8 divisions) ,Bangladesh,Mixed/National,General Adult Population,2335,Obesity/Overweight,2.2,1.82,2.67,<0.001 
+25,Hanif_2021,2021,Hanif et al. ,Nationwide (All 8 divisions) ,Bangladesh,Mixed/National,General Adult Population,2335,Diabetes,1.82,1.35,2.45,<0.001 
+25,Hanif_2021,2021,Hanif et al. ,Nationwide (All 8 divisions) ,Bangladesh,Mixed/National,General Adult Population,2335,Age: Elderly (≥60 yrs),1.4,1.15,1.71,<0.01 
+26,Islam_2018,2018,Islam et al. ,Nationwide (Urban and Rural) ,Bangladesh,Mixed/National,General Adult Population,1843,Age: Elderly (≥60 yrs),4.7,2.9,7.7,<0.05
+26,Islam_2018,2018,Islam et al. ,Nationwide (Urban and Rural) ,Bangladesh,Mixed/National,General Adult Population,1843,Age: Middle Age (40-59 yrs),4.2,2.7,6.5,<0.05
+26,Islam_2018,2018,Islam et al. ,Nationwide (Urban and Rural) ,Bangladesh,Mixed/National,General Adult Population,1843,Diabetes,3.4,2.1,5.6,<0.05
+26,Islam_2018,2018,Islam et al. ,Nationwide (Urban and Rural) ,Bangladesh,Mixed/National,General Adult Population,1843,Physical Inactivity,2.8,1.5,5.3,<0.05
+26,Islam_2018,2018,Islam et al. ,Nationwide (Urban and Rural) ,Bangladesh,Mixed/National,General Adult Population,1843,Age: Young Adult (<40 yrs),2.7,1.5,4.9,<0.05
+28,Jahan_2022,2022,Jahan et al. ,"Donia union, Kodomtali Thana, Dhaka ",Bangladesh,Urban,General Adult Population,602,Age 46 And Above,5.24,2.55,10.77,<0.001 
+28,Jahan_2022,2022,Jahan et al. ,"Donia union, Kodomtali Thana, Dhaka ",Bangladesh,Urban,General Adult Population,602,Age: Middle Age (40-59 yrs),2.48,1.49,4.14,<0.001 
+28,Jahan_2022,2022,Jahan et al. ,"Donia union, Kodomtali Thana, Dhaka ",Bangladesh,Urban,General Adult Population,602,Family History of HTN,1.84,1.21,2.82,<0.01 
+28,Jahan_2022,2022,Jahan et al. ,"Donia union, Kodomtali Thana, Dhaka ",Bangladesh,Urban,General Adult Population,602,Obesity/Overweight,1.62,1.05,2.53,<0.05 
+29,Al_Kibria_2019,2019,Al Kibria et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,7839,Age: Elderly (≥60 yrs),7.7,5.7,10.3,<0.001 
+29,Al_Kibria_2019,2019,Al Kibria et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,7839,Age: Elderly (≥60 yrs),6.1,4.6,8.3,<0.001 
+29,Al_Kibria_2019,2019,Al Kibria et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,7839,Obesity/Overweight,3.2,2.3,4.5,<0.001 
+29,Al_Kibria_2019,2019,Al Kibria et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,7839,Obesity/Overweight,3,2.4,3.9,<0.001 
+29,Al_Kibria_2019,2019,Al Kibria et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,7839,Diabetes,1.9,1.5,2.6,<0.05
+29,Al_Kibria_2019,2019,Al Kibria et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,7839,Diabetes,1.4,1.1,1.9,<0.05
+30,Sayeed_1995,1995,Sayeed et al. ,Dohar ,Bangladesh,Rural,General Adult Population,1005,Age: Middle Age (40-59 yrs),8.39,1.86,37.82,<0.05
+30,Sayeed_1995,1995,Sayeed et al. ,Dohar ,Bangladesh,Rural,General Adult Population,1005,Diabetes,4.8,1.52,15.49,<0.05
+30,Sayeed_1995,1995,Sayeed et al. ,Dohar ,Bangladesh,Rural,General Adult Population,1005,Age: Middle Age (40-59 yrs),4.73,2.83,7.9,<0.05
+30,Sayeed_1995,1995,Sayeed et al. ,Dohar ,Bangladesh,Rural,General Adult Population,1005,Obesity/Overweight,2.2,1.4,3.46,<0.05
+30,Sayeed_1995,1995,Sayeed et al. ,Dohar ,Bangladesh,Rural,General Adult Population,1005,Obesity/Overweight,1.94,1.55,2.43,<0.05
+31,Islam_2024,2024,Islam et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,6965,Age: Elderly (≥60 yrs),3.83,3.13,4.69,<0.001 
+31,Islam_2024,2024,Islam et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,6965,Age: Middle Age (40-59 yrs),2.45,2.06,2.91,<0.001 
+31,Islam_2024,2024,Islam et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,6965,Obesity/Overweight,1.96,1.71,2.26,<0.001 
+31,Islam_2024,2024,Islam et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,6965,Age: Middle Age (40-59 yrs),1.71,1.46,2.01,<0.001 
+31,Islam_2024,2024,Islam et al. ,Nationwide ,Bangladesh,Mixed/National,General Adult Population,6965,Diabetes,1.35,1.15,1.59,<0.001 
+33,Islam_2020,2020,Islam et al. ,Nationwide (Seven divisions) ,Bangladesh,Mixed/National,General Adult Population,7647,Gender: Female,-0.19,-0.27,-0.1,<0.001 
+33,Islam_2020,2020,Islam et al. ,Nationwide (Seven divisions) ,Bangladesh,Mixed/National,General Adult Population,7647,Gender: Male,-0.11,-0.17,-0.05,<0.001 
+33,Islam_2020,2020,Islam et al. ,Nationwide (Seven divisions) ,Bangladesh,Mixed/National,General Adult Population,7647,Gender: Female,-0.14,-0.26,-0.01,0.029
+35,Leung_2019,2019,Leung et al. ,Nationwide ,Canada,Mixed/National,General Adult Population,13407,Diabetes,2.25,1.92,2.65,<0.001 
+35,Leung_2019,2019,Leung et al. ,Nationwide ,Canada,Mixed/National,General Adult Population,13407,Cardiovascular Disease,2,1.74,2.3,<0.001 
+35,Leung_2019,2019,Leung et al. ,Nationwide ,Canada,Mixed/National,General Adult Population,13407,Cardiovascular Disease,1.81,1.49,2.21,<0.001 
+35,Leung_2019,2019,Leung et al. ,Nationwide ,Canada,Mixed/National,General Adult Population,13407,Diabetes,1.68,1.41,2.01,<0.001 
+35,Leung_2019,2019,Leung et al. ,Nationwide ,Canada,Mixed/National,General Adult Population,13407,Obesity/Overweight,1.57,1.35,1.83,<0.001 
+35,Leung_2019,2019,Leung et al. ,Nationwide ,Canada,Mixed/National,General Adult Population,13407,Obesity/Overweight,1.45,1.18,1.78,<0.001 
+37,Reddy_2005,2005,Reddy & Prabhu ,Tirupati (Channa Reddy Colony) ,India,Urban,General Adult Population,1000,Age: Middle Age (40-59 yrs),30.2,26.3,34.1,<0.05 
+37,Reddy_2005,2005,Reddy & Prabhu ,Tirupati (Channa Reddy Colony) ,India,Urban,General Adult Population,1000,History Of Previous Cardiovascular Events,11.1,5.5,21.9,<0.05 
+37,Reddy_2005,2005,Reddy & Prabhu ,Tirupati (Channa Reddy Colony) ,India,Urban,General Adult Population,1000,Diabetes,6.9,5.5,8.7,<0.05 
+37,Reddy_2005,2005,Reddy & Prabhu ,Tirupati (Channa Reddy Colony) ,India,Urban,General Adult Population,1000,Family History of HTN,6,5.1,6.9,<0.05 
+37,Reddy_2005,2005,Reddy & Prabhu ,Tirupati (Channa Reddy Colony) ,India,Urban,General Adult Population,1000,Age: Young Adult (<40 yrs),4.1,3.6,4.6,<0.05 
+41,Chataut_2011,2011,Chataut et al. ,"Bolde, Kavre ",Nepal,Rural,General Adult Population,527,Age: Elderly (≥60 yrs),11.21,3.99,31.49,<0.001 
+41,Chataut_2011,2011,Chataut et al. ,"Bolde, Kavre ",Nepal,Rural,General Adult Population,527,Age: Young Adult (<40 yrs),2.6,1.15,5.89,0.02
+41,Chataut_2011,2011,Chataut et al. ,"Bolde, Kavre ",Nepal,Rural,General Adult Population,527,Physical Inactivity,2.44,1.5,3.95,<0.001 
+41,Chataut_2011,2011,Chataut et al. ,"Bolde, Kavre ",Nepal,Rural,General Adult Population,527,Tobacco Use,0.53,0.34,0.8,<0.001 
+42,Khasanah_2022,2022,Khasanah,13 Provinces ,Indonesia,Mixed/National,General Adult Population,4790,Obesity/Overweight,2.913,2.082,4.075,<0.001
+42,Khasanah_2022,2022,Khasanah,13 Provinces ,Indonesia,Mixed/National,General Adult Population,4790,Age: Middle Age (40-59 yrs),2.897,2.367,3.545,<0.001
+42,Khasanah_2022,2022,Khasanah,13 Provinces ,Indonesia,Mixed/National,General Adult Population,4790,Physical Inactivity,1.327,1.065,1.653,0.011
+42,Khasanah_2022,2022,Khasanah,13 Provinces ,Indonesia,Mixed/National,General Adult Population,4790,Gender: Male,0.571,0.395,0.825,0.003
+42,Khasanah_2022,2022,Khasanah,13 Provinces ,Indonesia,Mixed/National,General Adult Population,4790,Gender: Male,0.331,0.226,0.484,<0.001
+43,Ghosh_2019,2019,Ghosh & Kumar ,Nationwide ,India,Mixed/National,General Adult Population,811917,Age: Middle Age (40-59 yrs),6.71,6.36,7.09,<0.001 
+43,Ghosh_2019,2019,Ghosh & Kumar ,Nationwide ,India,Mixed/National,General Adult Population,811917,Age: Young Adult (<40 yrs),3.8,3.6,4.01,<0.001 
+43,Ghosh_2019,2019,Ghosh & Kumar ,Nationwide ,India,Mixed/National,General Adult Population,811917,Age: Young Adult (<40 yrs),3.22,3.13,3.32,<0.001 
+43,Ghosh_2019,2019,Ghosh & Kumar ,Nationwide ,India,Mixed/National,General Adult Population,811917,Obesity/Overweight,2.02,1.98,2.06,<0.001 
+43,Ghosh_2019,2019,Ghosh & Kumar ,Nationwide ,India,Mixed/National,General Adult Population,811917,Alcohol Consumption (Almost Every Day),1.45,1.34,1.56,<0.001 
+44,von_Drygalski_2013,2013,von Drygalski et al. ,"3 Hemophilia Treatment Centers (San Diego, New Orleans, Los Angeles) ",Usa,Mixed/National,Patient/Clinical Population,458,Diabetes,3.96,1.01,15.56,<0.05 
+44,von_Drygalski_2013,2013,von Drygalski et al. ,"3 Hemophilia Treatment Centers (San Diego, New Orleans, Los Angeles) ",Usa,Mixed/National,Patient/Clinical Population,458,Obesity/Overweight,1.6,1.28,1.99,<0.001 
+44,von_Drygalski_2013,2013,von Drygalski et al. ,"3 Hemophilia Treatment Centers (San Diego, New Orleans, Los Angeles) ",Usa,Mixed/National,Patient/Clinical Population,458,Age (Per 5 Years Increase),1.36,1.2,1.53,<0.001 
+44,von_Drygalski_2013,2013,von Drygalski et al. ,"3 Hemophilia Treatment Centers (San Diego, New Orleans, Los Angeles) ",Usa,Mixed/National,Patient/Clinical Population,458,Egfr (Per $Ml/Min$ Per $1.73~M^2$),0.83,0.71,0.96,0.02
+46,Manimunda_2011,2011,Manimunda et al.,Car Nicobar Island ,India,Mixed/National,General Adult Population,975,Age: Elderly (≥60 yrs),8.74,4.56,16.73,<0.001
+46,Manimunda_2011,2011,Manimunda et al.,Car Nicobar Island ,India,Mixed/National,General Adult Population,975,Age: Middle Age (40-59 yrs),8.17,4.37,15.29,<0.001
+46,Manimunda_2011,2011,Manimunda et al.,Car Nicobar Island ,India,Mixed/National,General Adult Population,975,Age: Middle Age (40-59 yrs),4.39,2.43,7.93,<0.001
+46,Manimunda_2011,2011,Manimunda et al.,Car Nicobar Island ,India,Mixed/National,General Adult Population,975,Obesity/Overweight,4.1,2.72,6.19,<0.001
+46,Manimunda_2011,2011,Manimunda et al.,Car Nicobar Island ,India,Mixed/National,General Adult Population,975,Age: Young Adult (<40 yrs),1.66,1,2.75,0.04
+47,Han_2020,2020,Han et al.,Global (Meta-analysis),N/A (Meta-Analysis),Mixed/National,General Adult Population,1074207,Pooled: Snoring,1.939,1.41,2.665,<0.001
+47,Han_2020,2020,Han et al.,Global (Meta-analysis),N/A (Meta-Analysis),Mixed/National,General Adult Population,1074207,Sleep Disorders,1.798,1.355,2.384,<0.001
+47,Han_2020,2020,Han et al.,Global (Meta-analysis),N/A (Meta-Analysis),Mixed/National,General Adult Population,1074207,Pooled: Oxygen Desaturation Index (Odi),1.716,1.325,2.221,<0.001
+47,Han_2020,2020,Han et al.,Global (Meta-analysis),N/A (Meta-Analysis),Mixed/National,General Adult Population,1074207,Sleep Disorders,1.448,1.252,1.674,<0.001
+47,Han_2020,2020,Han et al.,Global (Meta-analysis),N/A (Meta-Analysis),Mixed/National,General Adult Population,1074207,Sleep Disorders,1.411,1.066,1.866,0.016
+47,Han_2020,2020,Han et al.,Global (Meta-analysis),N/A (Meta-Analysis),Mixed/National,General Adult Population,1074207,Sleep Disorders,1.38,1.082,1.76,0.009
+49,Bansil_2011,2011,Bansil et al. ,Nationwide ,Usa,Mixed/National,General Adult Population,10308,Sleep Disorders,2.3,1.49,3.56,<0.05
+49,Bansil_2011,2011,Bansil et al. ,Nationwide ,Usa,Mixed/National,General Adult Population,10308,Sleep Disorders,1.84,1.13,2.98,<0.05
+49,Bansil_2011,2011,Bansil et al. ,Nationwide ,Usa,Mixed/National,General Adult Population,10308,Sleep Disorders,1.36,1.05,1.77,<0.05
+50,Li_2021,2021,Li & Shang ,Nationwide ,Usa,Mixed/National,General Adult Population,12166,Sleep Disorders,1.9,1.62,2.24,<0.001 
+50,Li_2021,2021,Li & Shang ,Nationwide ,Usa,Mixed/National,General Adult Population,12166,Sleep Disorders,1.45,1.28,1.65,<0.001 
+50,Li_2021,2021,Li & Shang ,Nationwide ,Usa,Mixed/National,General Adult Population,12166,Sleep Disorders,1.33,1.07,1.66,0.012
+50,Li_2021,2021,Li & Shang ,Nationwide ,Usa,Mixed/National,General Adult Population,12166,Sleep Disorders,1.2,1.08,1.33,0.001
+50,Li_2021,2021,Li & Shang ,Nationwide ,Usa,Mixed/National,General Adult Population,12166,Sleep Disorders,1.18,1.06,1.32,0.004
+57,Mokhlesi_2014,2014,Mokhlesi et al.,Wisconsin,Usa,Mixed/National,General Adult Population,1451,Sleep Disorders,3.38,1.7,6.72,<0.05
+57,Mokhlesi_2014,2014,Mokhlesi et al.,Wisconsin,Usa,Mixed/National,General Adult Population,428,Sleep Disorders,1.77,1.08,2.92,<0.05
+57,Mokhlesi_2014,2014,Mokhlesi et al.,Wisconsin,Usa,Mixed/National,General Adult Population,1451,Sleep Disorders,1.26,1.01,1.57,<0.05
+57,Mokhlesi_2014,2014,Mokhlesi et al.,Wisconsin,Usa,Mixed/National,General Adult Population,1451,Age: Elderly (≥60 yrs),1.24,1.08,1.41,<0.05
